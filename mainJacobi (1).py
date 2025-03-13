@@ -3,8 +3,8 @@
 #   resolver sistemas de ecuaciones
 #
 #           Autor:
-#   Gilbert Alexander Mendez Cervera 
-#   mendezgilbert222304@outlook.com
+#   Argel Jesus Pech Manrique
+#   argelpech098@gmail.com
 #   Version 1.01 : 06/03/2025
 #
 
